@@ -1,2 +1,1 @@
-# fade-away
-Quick test of a fade-out effect for simple notification animations
+[Link to Example](https://omalsa04.github.io/fade-away/)
