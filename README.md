@@ -1,1 +1,1 @@
-[Link to Example](https://omalsa04.github.io/fade-away/)
+[Link to Example](https://sam-omalley.github.io/fade-away/)
